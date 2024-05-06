@@ -41,3 +41,7 @@ The provided Python code demonstrates the initial implementation of the fall det
 2. Download the YOLO model (`yolov8s.pt`) and the classes file (`classes.txt`).
 3. Update file paths and parameters as needed in the Python script.
 4. Run the Python script to start the fall detection system.
+
+## Result
+
+![Alt Text]()
